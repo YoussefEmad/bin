@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/youssef.emad/.gradle/caches/transforms-3/914116008979e77bc79da871871e9f31/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_getter.xml" value="0.22" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_main2.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_results.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_search_api.xml" value="0.1" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/activity_tesssst.xml" value="0.22" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/app_bar_main.xml" value="0.3671875" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/doddddddddddddd.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/getter.xml" value="0.22" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/item_dropdwon.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/youssef.emad/AndroidStudioProjects/Binlocation/app/src/main/res/layout/item_main.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/youssef.emad/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/youssef.emad/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/youssef.emad/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.19410004275331338" />
+        <entry key="..\:/Users/youssef.emad/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.19410004275331338" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="retrofit2.http.GET" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bin location</string>
+    <string name="select_bin">Select Bin</string>
+    <string name="select_rack">Select Rack</string>
+    <string name="select_aisle">Select Aisle</string>
+    <string name="select_zone">Select Zone</string>
+</resources>
